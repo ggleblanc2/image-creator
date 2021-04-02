@@ -30,7 +30,7 @@ I created an instruction JDialog.  I read the text into the JDialog each time th
 
 ![Instructions Dialog](imagecreator5.png)
 
-The application has a File menu and a Help menu.  The file menu allows you to read a text file, write a text file, and write an image file.  The Help menu bings up the instructions dialog and an about JDialog.
+The application has a File menu and a Help menu.  The file menu allows you to read a text file, write a text file, and write an image file.  The Help menu brings up the instructions dialog and an about JDialog.
 
 This application was not designed for printing large text files, although you're welcome to try.  Fonts with large point sizes (16 and up) are easier to read when drawn.
 
