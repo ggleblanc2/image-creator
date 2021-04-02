@@ -48,7 +48,7 @@ When I say I use the MVC pattern in a Swing application, this is what I mean.
 
 In a Swing application, there can be many controller classes.  There's no one controller to "rule them all".
 
-I wrote this application one small piece at a time, starting with the model, then the view, and finally the controller clsses.  I tested each small piece many many times.  Some of the code I was able to get from other projects I completed.  You might recognize the font JDialog from another repository of mine.  Because I used the MVC pattern, I knew all the small pieces would fit together in a huge mosaic.
+I wrote this application one small piece at a time, starting with the model, then the view, and finally the controller classes.  I tested each small piece many many times.  Some of the code I was able to get from other projects I completed.  You might recognize the font JDialog from another repository of mine.  Because I used the MVC pattern, I knew all the small pieces would fit together in a huge mosaic.
 
 ### Model
 
