@@ -1,0 +1,28 @@
+# Introduction
+
+The Image Creator application creates a drawing panel and a control panel.  The drawing panel is proportional to an 8 1/2 inch by 11 inch sheet of paper.  The control panel allows you to change the size of the drawing panel, the background color, the text color, and the font used to draw the text.
+
+The font list contains whatever fonts are on your computer that can draw the text.  Not all fonts can draw text in all languages.
+
+You can change the size of the drawing panel, the colors, and the font before or after you type the text in the text area. You can play around with the colors and the font and see how it looks in the drawing panel.
+
+# Control Panel
+
+Type the text into the text area.  If you want to break your text into paragraphs, you type a paragraph code "\p".  A space is required before and after the paragraph code.
+
+There are separate buttons for changing the background color, text color, and font.  The Submit button at the bottom submits the text to the drawing process.  The results are shown on the drawing panel.
+
+The color dialogs allow yopu to select a color based on swatches or any of four different color formats.
+
+The font dialog uses a two-step process.  First, you select the font style and font size.  Next, you left-click on the Display Fonts button in the upper right.
+
+The table of available fonts is displayed.  Different fonts will be appropriate for different languages.  To select a font, just left-click on the font name.  The row with that namee will turn blue.  Left-click on the OK button on the bottom to change to that font.
+
+# Menu
+
+There are two menu options in the upper left of the application.  The File menu option allows you to read a text file, write a text file, and write the drawing panel to an image format file.  The Help menu shows you these instructions and an About panel with my information.
+
+# Uses
+
+This application is not meant to draw long text files, although you can try.  For the best readability, you want to use a large font point size, from 16 to 24.  For shorter messages, a larger font point size can be used.
+ 
