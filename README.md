@@ -6,7 +6,7 @@ I wanted to build a Java Swing GUI that would allow me to create an image of tex
 
 This application does both.
 
-Here's what the application looks like when you start it.  The GUI is 952 x 510 pixels.
+Here's what the application looks like when you start it.  The GUI is 952 x 610 pixels.
 
 ![Image Creator GUI 1](imagecreator1.png)
 
